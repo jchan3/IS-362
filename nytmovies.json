@@ -1,0 +1,448 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2018 The New York Times Company. All Rights Reserved.",
+  "has_more": true,
+  "num_results": 20,
+  "results": [
+    {
+      "display_title": "Shoplifters",
+      "mpaa_rating": "R",
+      "critics_pick": 1,
+      "byline": "MANOHLA DARGIS",
+      "headline": "‘Shoplifters’ Review: A Family That Steals Together, Stays Together",
+      "summary_short": "In this beautifully felt drama, the Japanese director Hirokazu Kore-eda dives into the mess of life with a story about a family on the ragged edge.",
+      "publication_date": "2018-11-22",
+      "opening_date": "2018-11-23",
+      "date_updated": "2018-11-22 18:40:03",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2018/11/22/movies/shoplifters-review.html",
+        "suggested_link_text": "Read the New York Times Review of Shoplifters"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2018/11/23/arts/23shoplifterspix1/merlin_146950422_cdf94069-a72a-4dfb-ae9d-6d4222e39c29-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "Becoming Astrid",
+      "mpaa_rating": "",
+      "critics_pick": 1,
+      "byline": "JEANNETTE CATSOULIS",
+      "headline": "‘Becoming Astrid’ Review: A Children’s Author Finds Her Voice",
+      "summary_short": "This biopic of the Swedish writer of the “Pippi Longstocking” series hits familiar beats, but its performances are pitch perfect.",
+      "publication_date": "2018-11-22",
+      "opening_date": null,
+      "date_updated": "2018-11-22 12:04:06",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2018/11/22/movies/becoming-astrid-review-a-childrens-author-finds-her-voice.html",
+        "suggested_link_text": "Read the New York Times Review of Becoming Astrid"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2018/11/23/arts/23becomingastrid/merlin_146947422_ff687057-a940-40ad-9e8a-48743bf676d2-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "Inquiring Nuns",
+      "mpaa_rating": "Not Rated",
+      "critics_pick": 1,
+      "byline": "GLENN KENNY",
+      "headline": "‘Inquiring Nuns’ Review: A Simple Question Yields Many Profound Answers",
+      "summary_short": "In this newly restored 1968 documentary, two nuns ask a variety of passers-by in Chicago: “Are you happy?”",
+      "publication_date": "2018-11-22",
+      "opening_date": "2018-11-23",
+      "date_updated": "2018-11-22 12:04:03",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2018/11/22/movies/inquiring-nuns-review.html",
+        "suggested_link_text": "Read the New York Times Review of Inquiring Nuns"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2018/11/23/arts/23inquiringnuns/merlin_146956560_8df450c9-42f6-4bec-b843-772d2bcd51b2-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "Invisible Hands",
+      "mpaa_rating": "",
+      "critics_pick": 1,
+      "byline": "JEANNETTE CATSOULIS",
+      "headline": "‘Invisible Hands’ Review: The Children Fueling Global Capitalism",
+      "summary_short": "Shraysi Tandon’s dense investigative documentary jumps into the murky and shameful world of child trafficking and forced labor.",
+      "publication_date": "2018-11-22",
+      "opening_date": "2018-11-23",
+      "date_updated": "2018-11-22 17:44:25",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2018/11/22/movies/invisible-hands-review.html",
+        "suggested_link_text": "Read the New York Times Review of Invisible Hands"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2018/11/20/arts/invisible1/invisible1-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "Family in Transition",
+      "mpaa_rating": "",
+      "critics_pick": 0,
+      "byline": "KEN JAWOROWSKI",
+      "headline": "‘Family in Transition’ Review: A Parent Prepares for Change",
+      "summary_short": "The documentary tells the story of Amit Tsuk, who comes out as transgender, and the effect it has on the family.",
+      "publication_date": "2018-11-22",
+      "opening_date": "2018-11-23",
+      "date_updated": "2018-11-22 17:44:26",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2018/11/22/movies/family-in-transition-review.html",
+        "suggested_link_text": "Read the New York Times Review of Family in Transition"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2018/11/19/arts/family1/family1-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "Write When You Get Work",
+      "mpaa_rating": "",
+      "critics_pick": 0,
+      "byline": "JEANNETTE CATSOULIS",
+      "headline": "‘Write When You Get Work’ Review: Backstreet Boy Seeks Uptown Girl",
+      "summary_short": "A petty thief stalks his former lover in Stacy Cochran’s messy, maddening New York City romance.",
+      "publication_date": "2018-11-22",
+      "opening_date": "2018-11-23",
+      "date_updated": "2018-11-22 17:44:25",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2018/11/22/movies/write-when-you-get-work-review.html",
+        "suggested_link_text": "Read the New York Times Review of Write When You Get Work"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2018/11/20/arts/write1/write1-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "The Favourite",
+      "mpaa_rating": "R",
+      "critics_pick": 1,
+      "byline": "A.O. SCOTT",
+      "headline": "‘The Favourite’ Review: Scheming for Power in a Kinky Palace Triangle",
+      "summary_short": "Yorgos Lanthimos’s new film, starring Olivia Colman, Emma Stone and Rachel Weisz, turns 18th-century royal intrigue into sublime and ridiculous comedy.",
+      "publication_date": "2018-11-21",
+      "opening_date": "2018-11-23",
+      "date_updated": "2018-11-22 17:44:25",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2018/11/21/movies/the-favourite-review.html",
+        "suggested_link_text": "Read the New York Times Review of The Favourite"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2018/11/23/arts/23thefavourite-print1/23thefavourite-print1-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "Roma",
+      "mpaa_rating": "R",
+      "critics_pick": 1,
+      "byline": "MANOHLA DARGIS",
+      "headline": "‘Roma’ Review: Alfonso Cuarón’s Masterpiece of Memory",
+      "summary_short": "Cuarón uses both intimacy and monumentality to express the depths of ordinary life in this autobiographical movie set in Mexico City in the 1970s.",
+      "publication_date": "2018-11-20",
+      "opening_date": "2018-12-14",
+      "date_updated": "2018-11-22 17:44:24",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2018/11/20/movies/roma-review.html",
+        "suggested_link_text": "Read the New York Times Review of Roma"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2018/11/21/arts/21roma-1/merlin_146950056_edd65611-23f2-45f7-8909-a1b7d9942d0f-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "Creed II",
+      "mpaa_rating": "PG-13",
+      "critics_pick": 1,
+      "byline": "A.O. SCOTT",
+      "headline": "‘Creed II’ Review: A Poignant Boxing Movie Blends Old and New",
+      "summary_short": "Michael B. Jordan, Tessa Thompson and Sylvester Stallone reunite in a terrific follow-up to “Creed.”",
+      "publication_date": "2018-11-20",
+      "opening_date": "2018-11-21",
+      "date_updated": "2018-11-22 17:44:24",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2018/11/20/movies/creed-ii-review.html",
+        "suggested_link_text": "Read the New York Times Review of Creed II"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2018/11/21/arts/21creedtwo1/merlin_146947662_d2429e2d-8851-48be-9c26-d0e50c35ae79-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "The World Before Your Feet",
+      "mpaa_rating": "",
+      "critics_pick": 1,
+      "byline": "BEN KENIGSBERG",
+      "headline": "‘The World Before Your Feet’ Review: Walk a Mile — or 8,000 — in Another Man’s Shoes",
+      "summary_short": "Not everyone can spend several years walking every block of New York. But spending 90 minutes doing that in this documentary is swell.",
+      "publication_date": "2018-11-20",
+      "opening_date": "2018-11-21",
+      "date_updated": "2018-11-22 17:44:23",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2018/11/20/movies/the-world-before-your-feet-review.html",
+        "suggested_link_text": "Read the New York Times Review of The World Before Your Feet"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2018/11/21/arts/21worldbefore1/merlin_146950938_07fef26a-8b57-4d45-a820-40e5d8783779-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "Robin Hood",
+      "mpaa_rating": "PG-13",
+      "critics_pick": 0,
+      "byline": "GLENN KENNY",
+      "headline": "‘Robin Hood’ Review: A New Version Strains to Be Relevant",
+      "summary_short": "This is not your father’s, or grandfather’s, “Robin Hood,” and it’s not very good, either.",
+      "publication_date": "2018-11-20",
+      "opening_date": "2018-11-21",
+      "date_updated": "2018-11-22 17:44:24",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2018/11/20/movies/robin-hood-review.html",
+        "suggested_link_text": "Read the New York Times Review of Robin Hood"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2018/11/21/arts/21robinhood1/robinhood1-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "Las Sandinistas!",
+      "mpaa_rating": "",
+      "critics_pick": 0,
+      "byline": "BEN KENIGSBERG",
+      "headline": "‘¡Las Sandinistas!’ Review: Women Remember Revolution in Nicaragua",
+      "summary_short": "In focusing on the testimonies of women, the documentary aims to memorialize an overlooked feminist “revolution inside the revolution.”",
+      "publication_date": "2018-11-20",
+      "opening_date": "2018-11-21",
+      "date_updated": "2018-11-22 17:44:23",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2018/11/20/movies/las-sandinistas-review.html",
+        "suggested_link_text": "Read the New York Times Review of Las Sandinistas!"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2018/11/21/arts/21lassandinistas1/lassandinistas1-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "Ralph Breaks the Internet",
+      "mpaa_rating": "PG",
+      "critics_pick": 1,
+      "byline": "BILGE EBIRI",
+      "headline": "‘Ralph Breaks the Internet’ Review: Disney Gets Caught in the Web",
+      "summary_short": "John C. Reilly and Sarah Silverman return to voice the characters in this social satire sequel that is downright scary.",
+      "publication_date": "2018-11-19",
+      "opening_date": "2018-11-21",
+      "date_updated": "2018-11-22 17:44:23",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2018/11/19/movies/ralph-breaks-the-internet-review.html",
+        "suggested_link_text": "Read the New York Times Review of Ralph Breaks the Internet"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2018/11/21/arts/21ralphbreaks/21ralphbreaks-mediumThreeByTwo210-v2.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "At Eternity's Gate",
+      "mpaa_rating": "PG-13",
+      "critics_pick": 1,
+      "byline": "MANOHLA DARGIS",
+      "headline": "‘At Eternity’s Gate’ Review: An Exquisite Portrayal of van Gogh at Work",
+      "summary_short": "A magnificent Willem Dafoe stars in Julian Schnabel’s film, a work that Manohla Dargis calls “an argument for art.”",
+      "publication_date": "2018-11-15",
+      "opening_date": "2018-11-16",
+      "date_updated": "2018-11-22 17:44:22",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2018/11/15/movies/at-eternitys-gate-review.html",
+        "suggested_link_text": "Read the New York Times Review of At Eternity's Gate"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2018/11/16/arts/16ateternity-1/16ateternity-1-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "Green Book",
+      "mpaa_rating": "PG-13",
+      "critics_pick": 0,
+      "byline": "A.O. SCOTT",
+      "headline": "‘Green Book’ Review: A Road Trip Through a Land of Racial Clichés",
+      "summary_short": "A real-life story starring Mahershala Ali and Viggo Mortensen becomes a feel-good fable buoyed by its lead performances.",
+      "publication_date": "2018-11-15",
+      "opening_date": "2018-11-21",
+      "date_updated": "2018-11-22 17:44:22",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2018/11/15/movies/green-book-review.html",
+        "suggested_link_text": "Read the New York Times Review of Green Book"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2018/11/16/arts/16GREEN-BOOK/16GREEN-BOOK-mediumThreeByTwo210-v2.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "Of Fathers and Sons",
+      "mpaa_rating": "",
+      "critics_pick": 0,
+      "byline": "BEN KENIGSBERG",
+      "headline": "‘Of Fathers and Sons’ Review: A Look at Terrorists in Training",
+      "summary_short": "In this documentary a filmmaker embeds himself with a jihadist family, presenting himself as a sympathizer, but sheds little light on their inner lives.",
+      "publication_date": "2018-11-15",
+      "opening_date": "2018-11-16",
+      "date_updated": "2018-11-19 17:44:02",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2018/11/15/movies/of-fathers-and-sons-review.html",
+        "suggested_link_text": "Read the New York Times Review of Of Fathers and Sons"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2018/11/16/arts/16offatherspix1/16offatherspix1-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "Miss Dalí",
+      "mpaa_rating": "",
+      "critics_pick": 0,
+      "byline": "GLENN KENNY",
+      "headline": "‘Miss Dalí’ Review: A Disorienting Biography of Surrealist’s Sister",
+      "summary_short": "Anna Maria Dalí died four months after her brother, Salvador Dalí. This film is set during that period and is full of reminiscence.",
+      "publication_date": "2018-11-15",
+      "opening_date": "2018-11-16",
+      "date_updated": "2018-11-22 17:44:21",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2018/11/15/movies/miss-dali-review.html",
+        "suggested_link_text": "Read the New York Times Review of Miss Dalí"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2018/11/16/arts/16missdali/16missdali-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "Instant Family",
+      "mpaa_rating": "PG-13",
+      "critics_pick": 0,
+      "byline": "GLENN KENNY",
+      "headline": "‘Instant Family’ Review: The Adoption Option, Hollywood Style",
+      "summary_short": "“Instant Family” is a Sean Anders comedy with good intentions that’s not entirely hellish, but is reliably anodyne.",
+      "publication_date": "2018-11-15",
+      "opening_date": "2018-11-16",
+      "date_updated": "2018-11-22 17:44:21",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2018/11/15/movies/instant-family-review.html",
+        "suggested_link_text": "Read the New York Times Review of Instant Family"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2018/11/16/arts/16instantfamilypix1/merlin_146731482_160c938e-494c-432c-be39-a6deb4f60fce-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "The Last Race",
+      "mpaa_rating": "",
+      "critics_pick": 0,
+      "byline": "GLENN KENNY",
+      "headline": "‘The Last Race’ Review: Long Island’s Fading Car Craze",
+      "summary_short": "This documentary explores the region’s long history of auto racing and the lively and eccentric culture it attracted.",
+      "publication_date": "2018-11-15",
+      "opening_date": "2018-11-16",
+      "date_updated": "2018-11-22 17:44:21",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2018/11/15/movies/the-last-race-review.html",
+        "suggested_link_text": "Read the New York Times Review of The Last Race"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2018/11/16/arts/16lastrace/16lastrace-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "Mobile Homes",
+      "mpaa_rating": "",
+      "critics_pick": 0,
+      "byline": "BILGE EBIRI",
+      "headline": "‘Mobile Homes’ Review: Imogen Poots Gives a Riveting Performance",
+      "summary_short": "In this film about a troubled, unwed mother, director Vladimir de Fontenay struggles to match the expressive power of his lead actress.",
+      "publication_date": "2018-11-15",
+      "opening_date": "2018-11-16",
+      "date_updated": "2018-11-22 17:44:20",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2018/11/15/movies/mobile-homes-review.html",
+        "suggested_link_text": "Read the New York Times Review of Mobile Homes"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2018/11/14/arts/mobile1/mobile1-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    }
+  ]
+}
